@@ -20,7 +20,7 @@ This application demonstrates how to add the necessary code to create a PWA, pro
 ## Usage
 To use locally, run 'npm start' at your terminal from the project root. The application can be accessed via localhost:3001 in your browser.
 
-The deployed application can be found on Heroku: https://eknapp-pwa-budget-tracker.herokuapp.com/
+The deployed application can be found on Heroku: https://ancient-meadow-60782.herokuapp.com/ 
 
 ## Images
 
