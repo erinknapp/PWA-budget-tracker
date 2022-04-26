@@ -1,11 +1,11 @@
 # PWA- Budget Tracker
 
 ## Table of Contents
-[Description](#Description)    
-[NPM Packages](#npm-packages)  
-[Usage](#Usage)          
-[Images](#Images)   
-[Deployment](#deployment)
+* [Description](#Description)    
+* [NPM Packages](#npm-packages)  
+* [Usage](#Usage)          
+* [Images](#Images)   
+* [Deployment](#deployment)
 
 ## Description
 This application demonstrates how to add the necessary code to create a PWA, progressive web application. If the internet goes out, the user can still add/subtract to their budget and the information will be saved online when the internet is available.
